@@ -16,7 +16,7 @@ Class: 23DTV1<br>
 | Task Description                                     | Nguyen Thanh Dat | Ho Quang Dai | Nguyen Phuoc Dat |
 |------------------------------------------------------|:------------------:|:---------------:|:-------------:|
 |CMOS THEORY (I-V Characteristic)                                      | <center>X</center> | <center> </center> | <center> </center> |
-| CMOS CAPACITANCE                                         | <center> </center> | <center>X</center> | <center>X</center> |
+| CMOS CAPACITANCE                                         | <center> </center> | <center>X</center> | <center> </center> |
 | CMOS applied to design the logic gates and simulation                                       | <center> </center> | <center> </center> | <center>X</center> |
 | Presentation                                         | <center>X</center> | <center>X</center> | <center>X</center> |
 | Summarize and edit report                            | <center>X</center> | <center>X</center> | <center>X</center> |
